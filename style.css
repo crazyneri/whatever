@@ -1,0 +1,51 @@
+nav a {
+  text-decoration: none;
+  color: crimson;
+}
+
+blockquote {
+  padding: 1rem;
+}
+.about blockquote {
+  background-color: #eaeaea;
+}
+
+/* .USERS CLASS AS WELL !!! */
+.users span {
+  font-weight: bold;
+}
+.users span:nth-child(2) {
+  color: crimson;
+}
+/* ALSO THE SECOND SPAN SHOULD BE CRIMSON */
+
+.creators a {
+  font-family: "Lato";
+  text-decoration: none;
+}
+
+/* DIFFERENT */
+.creators a:nth-child(2) {
+  font-family: "PT Serif";
+  font-weight: bold;
+}
+.creators a:nth-child(4) {
+  font-family: "PT Serif";
+  font-weight: bold;
+}
+/* 
+
+
+
+
+*/
+
+.cta h2 {
+  color: crimson;
+  font-family: "Lato", sans-serif;
+}
+
+li:nth-child(1),
+li:nth-child(3) {
+  text-decoration-line: underline;
+}
