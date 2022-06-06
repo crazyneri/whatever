@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-06-06T12:11:32.161Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="16.6.4" etag="j3Fw3gZ7atVmQ74JmKVq" type="github"><diagram id="hYIiZlwFGT1qf6bTePf9">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-06T12:18:24.148Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="zgztGWgWFlgIXwyxp8gR" version="16.6.4" type="github">
+  <diagram id="hYIiZlwFGT1qf6bTePf9" name="Page-1">
+    <mxGraphModel dx="780" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jw2hC13WBdoze41ITWZx-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="30" y="80" width="670" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="jw2hC13WBdoze41ITWZx-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="80" width="670" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jw2hC13WBdoze41ITWZx-3" value="Happy new year - popup" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="80" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jw2hC13WBdoze41ITWZx-4" value="X" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="80" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jw2hC13WBdoze41ITWZx-5" value="Catalogue" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jw2hC13WBdoze41ITWZx-6" value="Dealers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jw2hC13WBdoze41ITWZx-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="140" width="620" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jw2hC13WBdoze41ITWZx-8" value="navnbar - sticky" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="145" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jw2hC13WBdoze41ITWZx-9" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="210" y="240" width="310" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="jw2hC13WBdoze41ITWZx-10" value="Cookies" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="302.5" y="280" width="115" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
