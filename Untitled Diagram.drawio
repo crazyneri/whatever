@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-06T12:18:24.148Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="zgztGWgWFlgIXwyxp8gR" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-06T15:43:51.093Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="ze-xsMu0Gc9erlmuu2R3" version="16.6.4" type="github">
   <diagram id="hYIiZlwFGT1qf6bTePf9" name="Page-1">
     <mxGraphModel dx="780" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,6 +33,12 @@
         </mxCell>
         <mxCell id="jw2hC13WBdoze41ITWZx-10" value="Cookies" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="302.5" y="280" width="115" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jw2hC13WBdoze41ITWZx-11" value="Change dealer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="110" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jw2hC13WBdoze41ITWZx-12" value="ALWAYS STAYS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="110" width="360" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
